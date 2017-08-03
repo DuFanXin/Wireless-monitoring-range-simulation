@@ -1,0 +1,38 @@
+
+[Log Info:]
+version :	1
+row_count :	3
+max_log_row :	5000
+max_file_row :	1000
+hide_date :	TRUE
+include_severity :	TRUE
+file_count :	1
+
+[File List:]
+3208_01-21-2016_12.28.52	3	12:28:54 Jan 21 2016	12:28:58 Jan 21 2016
+
+[Column Dependency List:]
+dependency_count :	1
+6	7
+
+
+[Summary]
+
+
+log_handle_column_count :	3
+5	Category	2	Configuration
+6	Class	2	TMM
+7	SubClass	2	closure stage loading of propagation model
+incident_count :	0
+
+log_handle_column_count :	3
+5	Category	2	Low-Level
+6	Class	2	Simulation
+7	SubClass	2	Message
+incident_count :	2
+
+log_handle_column_count :	3
+5	Category	2	Low-Level
+6	Class	2	TMM
+7	SubClass	2	path loss calculation
+incident_count :	0
